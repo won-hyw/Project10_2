@@ -8,7 +8,7 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.Toast;
-
+// Change ViewFliper
 public class MainActivity extends AppCompatActivity {
     String[] imgNames = {"Your Choice DINO", "INCOMPLETE DINO", "DICON DINO", "DICON DINO", "INCOMPLETE DINO", "ESQUIRE DINO", "Flower DINO", "Lovely DINO", "Cute DINO"};
     int[] imgVIds = {R.id.img01, R.id.img02, R.id.img03, R.id.img04, R.id.img05, R.id.img06, R.id.img07, R.id.img08, R.id.img09};
